@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Ismayil Khayredinov (ismayil.khayredinov@gmail.com)" />
+	<field key="version" value="1.0" />
+	<field key="description" value="Company Profiles for Elgg" />
+	<field key="copyright" value="2011 (c) Opptin, 2011 (c) Ismayil Khayredinov " />
+	<field key="licence" value="GNU GPL v2" />
+	<field key="elgg_version" value="2010071002" />
+</plugin_manifest>
